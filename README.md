@@ -92,15 +92,6 @@ This project uses 2024 market data of **Sonic Healthcare Limited (ASX: SHL)** to
 - Visual tools (Power BI date hierarchy, trendlines, dual-axis views) enhance clarity and decision-making
 - Combining **technical indicators + price simulation** supports better portfolio strategy building
 
----
-
-## 🛠 Files Included
-
-| File | Description |
-|------|-------------|
-| `SHL_2024_Analysis_Report.pdf` | Full report with visuals and investment model explanation |
-| `SHL_Data_Model.xlsx` | Excel sheet with all calculations, visual charts, and logic |
-| `SHL_Interactive_PowerBI.pbix` (optional) | Power BI file for dynamic dashboard exploration |
 
 ---
 
